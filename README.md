@@ -151,9 +151,6 @@ finally:
     cap.release()
 ```
 
-# Output
-<img width="916" height="646" alt="image" src="https://github.com/user-attachments/assets/1539423b-c4b3-444d-b00c-41260a346872" />
-
 # Result:
 
 The YOLOv4 model successfully detected multiple objects from the live webcam feed. Bounding boxes, object labels, and confidence scores were displayed accurately in real time using OpenCV, demonstrating efficient deep learning-based object detection.
